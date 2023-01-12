@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @debelsoftware
 - 👀 I’m interested in ...
-Web Development
-IoT
-Aviation
+Web Development, 
+IoT, 
+Aviation, 
 Videography
 - 🌱 I’m currently learning ...
 Tableau
